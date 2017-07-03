@@ -1,0 +1,22 @@
+{
+  "name": "dummy-auto-testing",
+  "version": "1.0.0",
+  "description": "A dummy project to learn automation testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolvj/dummy-auto-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolvj/dummy-auto-testing/issues"
+  },
+  "homepage": "https://github.com/anmolvj/dummy-auto-testing#readme",
+  "devDependencies": {
+    "nightwatch": "^0.9.16"
+  }
+}
